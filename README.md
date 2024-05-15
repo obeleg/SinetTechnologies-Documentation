@@ -32,6 +32,8 @@ Explorary Data Analysis involves exploring the Data some questions about the Dat
 - What are the total sales and total profit by state?
 - What are the total sales by customer name?
 
+
+
 ## Result/ Findings
  This is wher you put the insight gotten from the analyysis
 1. The company's sales hanve been progressively rising from the period of a specific time
