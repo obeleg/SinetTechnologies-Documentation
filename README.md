@@ -12,3 +12,18 @@ The primary source of Data used here is Super Store.csv and this open source dat
 - Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com)
 - Power BI (For reporting)
 
+- What is the total sales by subcategory?
+- What is the total profit by shipmode?
+- What is the total profit by category?
+- What are the average sales on segment?
+- What are the total sales on region?
+- What are the total sales by state?
+- What are the total sales by shipmode?
+- What are the total sales on category?
+- What is the total profit by subcategory?
+- What is the total profit on segment?
+- What are the total sales and total profit on segment?
+- What are the sum of sales by total profit?
+- What is the total profit by region?
+- What are the total sales and total profit by state?
+- What are the total sales by customer name?
