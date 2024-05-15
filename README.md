@@ -13,7 +13,7 @@ The primary source of Data used here is Super Store.csv and this open source dat
 - Power BI (For reporting)
 
 
-##Data Cleaning and Preparation
+## Data Cleaning and Preparation
 
 Explorary Data Analysis involves exploring the Data some questions
 - What is the total sales by subcategory?
