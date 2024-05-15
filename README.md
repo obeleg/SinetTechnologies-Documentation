@@ -12,6 +12,10 @@ The primary source of Data used here is Super Store.csv and this open source dat
 - Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com)
 - Power BI (For reporting)
 
+
+##Data Cleaning and Preparation
+
+Explorary Data Analysis involves exploring the Data some questions
 - What is the total sales by subcategory?
 - What is the total profit by shipmode?
 - What is the total profit by category?
