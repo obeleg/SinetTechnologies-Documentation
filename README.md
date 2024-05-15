@@ -15,7 +15,7 @@ The primary source of Data used here is Super Store.csv and this open source dat
 
 ## Data Cleaning and Preparation
 
-Explorary Data Analysis involves exploring the Data some questions
+Explorary Data Analysis involves exploring the Data some questions about the Data such as;
 - What is the total sales by subcategory?
 - What is the total profit by shipmode?
 - What is the total profit by category?
